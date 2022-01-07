@@ -1,1 +1,1 @@
-![Logo](https://raw.githubusercontent.com/id1945/tree-online/main/src/assets/tree.png)
+![Logo](https://raw.githubusercontent.com/id1945/tree-online/main/tree.png)
